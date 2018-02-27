@@ -1,3 +1,7 @@
+/*var name = prompt('Jak masz na imię?');*/
+//alert('Witaj, ' + name);
+//console.log('Witaj, ' + name);
+
 var a = 2.45,
 	h = 12,
 	triangleArea;
